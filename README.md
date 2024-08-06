@@ -1,6 +1,7 @@
 # Create-Read-Update-Delete-CRUD-Genetic-Database
-PROJECT TITLE: THE NATIONAL GENETIC DATABASE SYSTEM OF INDONESIA
-------THIS IS PART OF CAPSTONE PROJECT MODULE-1 PURWADHIKA------
+PROJECT TITLE:
+THE NATIONAL GENETIC DATABASE SYSTEM OF INDONESIA
+------THIS IS A PART OF CAPSTONE PROJECT MODULE-1 PURWADHIKA------
 
 The objective is to construct a program capable of performing the four fundamental operations of data management: creation, reading, updating, and deletion (CRUD). These operations pertain to the genetic profile of species of organisms, inclusive of the DNA sequence. The program utilise the regular functions within the Python programming language.
 In this project, I have elected to develop a program that enables the management of the genetic record in the database through the execution of six distinct operations. These are: four CRUD (Create, Read, Update, Delete) operations; a singular user registration and sign-in operation; and an operation to initiate, modify, and save the database.
@@ -10,7 +11,6 @@ The functions are as follows:
 A.  SINGULAR USER REGISTRATION AND SIGN-IN
     The system permits the user to register their identity and 16-digit identity card number, as in the case of the 'Kartu Tanda Penduduk' (KTP). Upon completion of the registration process, the user is then able
     to sign in using the registered research ID and ID card number.
-    
     DISCLAIMER: At the time of writing, the system is not yet connected to any known servers that store the social ID card data of Indonesia. At this time, neither the identity number nor the identity card number
                 are stored in any file or other repository.
 
