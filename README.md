@@ -13,7 +13,7 @@ The functions are as follows:
 
 A.  SINGULAR USER REGISTRATION AND SIGN-IN
 
-The system permits the user to register their identity and 16-digit identity card number, as in the case of the 'Kartu Tanda Penduduk' (KTP). Upon completion of the registration process, the user is then able to sign in using the registered research ID and ID card number.
+The system allows users to register their identity and 16-digit identity card number, as is the case with the Indonesian social ID card, which is locally known as a 'Kartu Tanda Penduduk' or KTP. Upon completion of the registration process, the user is then able to sign in using the registered research ID and ID card number.
 
 DISCLAIMER: At the time of writing, the system is not yet connected to any known servers that store the social ID card data of Indonesia. At this time, neither the identity number nor the identity card number
 are stored in any file or other repository.
